@@ -1,0 +1,6 @@
+C:\Users\Alumno\Documents\GitHub\ClaseUA_WEB\IntHTML\IntHTML\bin\IntHTML.dll.config
+C:\Users\Alumno\Documents\GitHub\ClaseUA_WEB\IntHTML\IntHTML\bin\IntHTML.dll
+C:\Users\Alumno\Documents\GitHub\ClaseUA_WEB\IntHTML\IntHTML\bin\IntHTML.pdb
+C:\Users\Alumno\Documents\GitHub\ClaseUA_WEB\IntHTML\IntHTML\obj\Debug\IntHTML.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\GitHub\ClaseUA_WEB\IntHTML\IntHTML\obj\Debug\IntHTML.dll
+C:\Users\Alumno\Documents\GitHub\ClaseUA_WEB\IntHTML\IntHTML\obj\Debug\IntHTML.pdb

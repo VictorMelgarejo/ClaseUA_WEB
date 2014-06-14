@@ -57,6 +57,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Comentarios.html" />
+    <Content Include="index.html" />
+    <Content Include="Otros.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
